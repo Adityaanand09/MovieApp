@@ -1,6 +1,6 @@
 # movieapp
 
-A new Flutter application.
+Simple App to search movies using the OMDB api
 
 ## Getting Started
 
